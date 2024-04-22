@@ -1,0 +1,191 @@
+CHANGES
+=======
+
+* Update CITATION.cff
+* Update README.md
+* Update README.md
+* Update README.md
+* Update README.md
+* Update README.md
+* Update README.md
+* Graphs adjustments
+* Update in citation file
+* New citation file
+* Notebooks revision
+* Small correction
+* Small correction
+* Update README.md
+* Delete .rclone.conf
+* Update README.md
+* Small fixes
+* Update README.md
+* Update README.md
+* Delete .dockerignore
+* Deleted old files
+* Update README.md
+* Saliency maps examples
+* Update README.md
+* Files revission
+* Files revision
+* Update README-Revision.md
+* Fixed minor errors
+* Update README-Revision.md
+* New readme
+* Little checks in the notebooks
+* Notebooks preparation
+* Preparing notebooks
+* Deleted old files
+* Corrected some errors in the graphs
+* Fixed errors
+* New notebook
+* Small changes in graphs
+* Statistics calculations
+* New notebook to evaluate errors
+* Mosaico with wine in the glasses
+* Small adjustments in plots
+* Empty glasses photos notebook
+* Small changes in labels size and pads
+* Violin plots improved
+* Changes in saliency maps
+* Other type of violin plot
+* Markers in violin plot
+* Improving graphs
+* Violin plots and saliency maps
+* Violin plots
+* Test copas + vasos networks for 62 volunteer images
+* Primeros resultados modelo copas y vasos
+* Prueba con copas y vasos Madrid
+* Results for volunteer images in cups and glasses
+* Vasos predictions in regression neural network
+* Statistics for copas Madrid and La Rioja
+* Changes in regression branch
+* Saliency maps cops Madrid
+* Predicton statistics notebook 3.1
+* Testing all cups Madrid neural network
+* Small changes in notebooks 0.0 and 1.1
+* New notebook to explore dataset parameters in the images
+* New in dataset exploration
+* Regression results for copa Char
+* Reg conf
+* Adapting predictions to regression metrics
+* Adaptation to regression
+* New changes-looking for solutions to adapta labels to regression
+* data\_utils.py for regression
+* Changes in notebook 0.0
+* New changes for regression branch
+* Cambios LIME
+* Notebook para recoger los resultados y nuevo notebook de pruebas para implementar LIME
+* Cambio de delimitador para leer imagenes de varias carpetas a la vez
+* Adaptaciones para la medida del volumen en copas de vino
+* Notebook para separar todas las imagenes en train, test, val
+* Nuevo notebook para separar las clases en train, val y test
+* Aumento de crop\_number hasta 30 en k\_crop\_data\_sequence
+* Pequeno ajuste de config.yaml
+* Pequenos cambios en demo-config.yaml
+* Correcciones de algunos metodos
+* Cambios de tipo de red en config.yaml
+* Solucion problema con el compilador en train\_runfile.py
+* Entrenamiento y primeras predicciones
+* Primera prueba
+* fix requirements
+* fix readme
+* Fix warm
+* fix webargs requirement
+* fix image\_load exception
+* clean imports
+* Fix catch\_error decorator
+* update readme
+* improve response format
+* fix tensorboard
+* add unit tests for training
+* fix training
+* fix empty augmentation dict checking
+* disable multiprocessing
+* fixes
+* fix Jenkinsfile agent
+* fix model save
+* fixes
+* fix float32
+* Fix custom optimizers issue
+* fixes for tf1.14
+* add tests
+* fix distribution name
+* remove error wrapper from train
+* fix requirements
+* display error messages
+* add model warming
+* update Jenkinsfile
+* removed derived jobs trigger
+* fix enum
+* fixes
+* trigger rebuild
+* Update api.py
+* Update api.py
+* Update .rclone.conf
+* adapt to webargs-marshmallow
+* upgrade to deepaas v2
+* fix
+* add pretrained imagenet default
+* fix empty timestamp\_list
+* fix metadata
+* add rebuild for derived services
+* allow base64 encoded images
+* add selectable model for inference
+* fix tests
+* improve api display
+* fix website
+* fix metadata
+* add unit tests
+* update to new deepaas version
+* fixes
+* fix epochs
+* fix readme
+* fix nextcloud error message
+* fix moniport
+* add metadata from docker container
+* fix PR redundancy
+* Update utils.py
+* Update data\_utils.py
+* Update Jenkinsfile
+* minor fixes
+* fix
+* improve test notebook
+* update config
+* remove Keras patch
+* fixes
+* add multi-training plots
+* Update Jenkinsfile
+* Update README.md
+* Update tox.ini
+* license + small fixes
+* Update .rclone.conf
+* rclone file added
+* added comments
+* Fix NaN issue
+* Patch for solving the issue with gpu-cpu
+* Update api.py
+* tensorboard launching
+* timestamp fix
+* api fix
+* remove inference model preloading from api
+* Update api.py
+* misc fixes
+* renamed output to models in nextcloud
+* img\_dir fix
+* Adapted to run with data from nextcloud (#1)
+* invalid request fix
+* invalid request fix
+* added get\_train\_args
+* cfg fix
+* fixes
+* fixes
+* fixes
+* fixes
+* docs fix
+* untrack labels html
+* untrack labels html
+* remove redundant files
+* Add webpage functionality
+* api fix
+* Fix API training + typos
+* first commit
